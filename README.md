@@ -8,10 +8,10 @@ This aids in the visualization of the morphing between two neurons, which might 
 Usage:
 1. Run the mainUser.m . 
 2. Give path of the "Directory" where the input files are located. The input files are arranged in the following way (sample example) :
-                          
-                
-Directory -----|------- motor     ----- CNG version --- file2.swc
-               |------- Ganglion  ----- CNG version --- file3.swc
+           
+Directory -----
+              | ------- motor     ----- CNG version --- file2.swc
+              | ------- Ganglion  ----- CNG version --- file3.swc
                
 3. The program will read all the .swc files in that directory in a serial order, and asks the user to input the serial numbers of the two neurons to compare.
 
