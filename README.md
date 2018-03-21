@@ -9,7 +9,7 @@ Usage:
 1. Run the mainUser.m . 
 2. Give path of the "Directory" where the input files are located. The input files are arranged in the following way (sample example) :
                           
-               |------- pyramidal ----- CNG version --- file1.swc 
+                
 Directory -----|------- motor     ----- CNG version --- file2.swc
                |------- Ganglion  ----- CNG version --- file3.swc
                
